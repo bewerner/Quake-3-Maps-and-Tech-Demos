@@ -1,0 +1,8 @@
+{
+map	"smc06_quBit"
+longname	"smc06_quBit"
+style	"run"
+cpm	"1"
+vq3	"1"
+author	"quBit"
+}

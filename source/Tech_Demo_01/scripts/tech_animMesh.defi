@@ -1,0 +1,8 @@
+{
+map	"tech_animMesh"
+longname	"Tech Demo #01: Animated map objects (models) and lightmaps"
+style	"run"
+cpm	"1"
+vq3	"1"
+author	"quBit"
+}
