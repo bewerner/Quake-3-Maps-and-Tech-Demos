@@ -30,22 +30,6 @@ The [Hunter model](https://sketchfab.com/3d-models/hunter-80a20eb0cba043caa361e2
 
 <br>
 
-# Matryoshka (2023)
-
-![](docs/Matryoshka.gif)
-
-📺 [Full Video](https://youtu.be/3WCJ9cg1aiQ) \
-🔍 [Source Files](source/Matryoshka) \
-💾 [Download Map](https://ws.q3df.org/maps/downloads/smc11_quBit.pk3)
-
-Pretty much just a shader study.
-
-All movement here is done with various deformvertexes techniques. By slowly modulating the alpha channel, the dolls seem to dissolve in different patterns determined by the texture's alpha mask.
-
-The [Matryoshka Doll model](https://www.blendswap.com/blend/26799) was made by **5thElement**
-
-<br>
-
 # A01-Race (2022)
 
 ![](docs/A01-Race.gif)
@@ -63,6 +47,22 @@ So I set out to figure out a workflow to bake my own lightmaps in blender. Since
 With the workflow mostly figured out, I wanted to make a proof of concept map, but I wouldn't have enough time to build something massive entirely from scratch. I always thought it would be cool to have a Trackmania map in Quake 3 Defrag, so I decided to port the most iconic map from Trackmania Nations Forever, A01-Race.
 
 The final map performs incredibly well, with 280k tris and no vis optimizations. It's a very enjoyable workflow for me and I hope that more people will give it a try.
+
+<br>
+
+# Matryoshka (2023)
+
+![](docs/Matryoshka.gif)
+
+📺 [Full Video](https://youtu.be/3WCJ9cg1aiQ) \
+🔍 [Source Files](source/Matryoshka) \
+💾 [Download Map](https://ws.q3df.org/maps/downloads/smc11_quBit.pk3)
+
+Pretty much just a shader study.
+
+All movement here is done with various deformvertexes techniques. By slowly modulating the alpha channel, the dolls seem to dissolve in different patterns determined by the texture's alpha mask.
+
+The [Matryoshka Doll model](https://www.blendswap.com/blend/26799) was made by **5thElement**
 
 <br>
 
