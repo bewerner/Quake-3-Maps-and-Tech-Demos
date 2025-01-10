@@ -34,7 +34,7 @@ The [Hunter model](https://sketchfab.com/3d-models/hunter-80a20eb0cba043caa361e2
 
 ![](docs/A01-Race.gif)
 
-📺 [Full Video]() by **n00k1e** \
+📺 [Full Video](https://youtu.be/DT17oGqI6rw) by **n00k1e** \
 🔍 [Source Files](source/A01-Race) \
 💾 [Download Map](https://ws.q3df.org/maps/downloads/A01-Race.pk3)
 
