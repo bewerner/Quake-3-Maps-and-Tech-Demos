@@ -1,6 +1,6 @@
 # Serenity (2019)
 
-![](docs/Serenity.gif)
+![![Loading...](https://i.gifer.com/g0R5.gif)](docs/Serenity.gif)
 
 📺 [Full Video](https://youtu.be/mw1yKEEyhEU) by **Ryan_H** \
 💾 [Download Map](https://ws.q3df.org/maps/downloads/dfwc2019-6.pk3)
@@ -14,7 +14,7 @@ I ended up helping out by creating gameplay and geometry for the second half, op
 
 # Tech Demo 01 (2024)
 
-![](docs/Tech_Demo_01.gif)
+![Loading...](docs/Tech_Demo_01.gif)
 
 📺 [Full Video](https://youtu.be/XozoJGX3y2Q) \
 🔍 [Source Files](source/Tech_Demo_01) \
