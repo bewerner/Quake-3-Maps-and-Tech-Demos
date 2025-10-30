@@ -1,3 +1,14 @@
+# id Tech 3 Mapping Trello Board (since 2020)
+
+[![](docs/Trello.png)](https://trello.com/b/zJp4pE3m/id-tech-3-mapping)
+
+
+🔍 [id Tech 3 Mapping](https://trello.com/b/zJp4pE3m/id-tech-3-mapping)
+
+A comprehensive collection of everything related to mapping in Quake 3 and other id Tech 3 titles.
+
+<br>
+
 # Serenity (2019)
 
 ![](docs/Serenity.gif)
@@ -7,7 +18,7 @@
 
 A map for Defrag World Cup 2019 in collaboration with **LicktorR**.
 
-When my friend approached me about testing his map, he had already established it's stunning visuals and beautiful atmosphere.
+When my friend approached me about testing his map, he had already established it's monumental visuals and beautiful atmosphere.
 I ended up helping out by creating gameplay and geometry for the second half, optimization, shaders and lighting.
 
 <br>
