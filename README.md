@@ -11,7 +11,7 @@ A comprehensive collection of everything related to mapping in Quake 3 and other
 
 # Serenity (2019)
 
-![](docs/Serenity.gif)
+![Serenity](docs/Serenity.gif)
 
 📺 [Full Video](https://youtu.be/mw1yKEEyhEU) by **Ryan_H** \
 💾 [Download Map](https://ws.q3df.org/maps/downloads/dfwc2019-6.pk3)
@@ -25,7 +25,7 @@ I ended up helping out by creating gameplay and geometry for the second half, op
 
 # Tech Demo 01 (2024)
 
-![](docs/Tech_Demo_01.gif)
+![Tech Demo 01](docs/Tech_Demo_01.gif)
 
 📺 [Full Video](https://youtu.be/XozoJGX3y2Q) \
 🔍 [Source Files](source/Tech_Demo_01) \
@@ -43,9 +43,9 @@ The [Hunter model](https://sketchfab.com/3d-models/hunter-80a20eb0cba043caa361e2
 
 # A01-Race (2022)
 
-![](docs/A01-Race.gif)
+![A01-Race](docs/A01-Race.gif)
 
-📺 [Full Video]() by **n00k1e** \
+📺 [Full Video](https://youtu.be/DT17oGqI6rw) by **n00k1e** \
 🔍 [Source Files](source/A01-Race) \
 💾 [Download Map](https://ws.q3df.org/maps/downloads/A01-Race.pk3)
 
@@ -63,7 +63,7 @@ The final map performs incredibly well, with 280k tris and no vis optimizations.
 
 # Matryoshka (2023)
 
-![](docs/Matryoshka.gif)
+![Matryoshka](docs/Matryoshka.gif)
 
 📺 [Full Video](https://youtu.be/3WCJ9cg1aiQ) \
 🔍 [Source Files](source/Matryoshka) \
@@ -79,7 +79,7 @@ The [Matryoshka Doll model](https://www.blendswap.com/blend/26799) was made by *
 
 # Dodgeball (2022)
 
-![](docs/Dodgeball.gif)
+![Dodgeball](docs/Dodgeball.gif)
 
 🔍 [Source Files](source/Dodgeball) \
 💾 [Download Map](https://ws.q3df.org/maps/downloads/smc06_quBit.pk3)
